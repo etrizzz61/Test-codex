@@ -1,0 +1,12 @@
+{
+    "Pikachu": {
+        "series": "Base",
+        "rarity": "Common",
+        "image_url": "https://example.com/pikachu.jpg"
+    },
+    "Stitch - Rock Star": {
+        "series": "The First Chapter",
+        "rarity": "Rare",
+        "image_url": "https://example.com/stitch_rock_star.jpg"
+    }
+}
