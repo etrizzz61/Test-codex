@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python-headless
+easyocr
+gradio>=3.0
+numpy

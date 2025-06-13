@@ -1,0 +1,1 @@
+"""CardScanner package initialization."""
